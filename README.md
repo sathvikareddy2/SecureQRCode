@@ -30,7 +30,7 @@ This project proposes a secure and efficient system for password-protected QR co
 
 ## 📷 Screenshot
 
-![App Screenshot](7051ff02-28e3-476c-83ac-d579c23a8d4c.png)
+![App Screenshot](execution.png)
 
 ---
 
